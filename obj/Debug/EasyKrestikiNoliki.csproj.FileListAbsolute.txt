@@ -1,0 +1,10 @@
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\obj\Debug\EasyKrestikiNoliki.csproj.AssemblyReference.cache
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\obj\Debug\EasyKrestikiNoliki.FormMain.resources
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\obj\Debug\EasyKrestikiNoliki.Properties.Resources.resources
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\obj\Debug\EasyKrestikiNoliki.csproj.GenerateResource.cache
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\obj\Debug\EasyKrestikiNoliki.csproj.CoreCompileInputs.cache
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\bin\Debug\EasyKrestikiNoliki.exe.config
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\bin\Debug\EasyKrestikiNoliki.exe
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\bin\Debug\EasyKrestikiNoliki.pdb
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\obj\Debug\EasyKrestikiNoliki.exe
+O:\MYDESKTOP\Documents\ForJob\NATK\C#\EasyKrestikiNoliki\obj\Debug\EasyKrestikiNoliki.pdb
